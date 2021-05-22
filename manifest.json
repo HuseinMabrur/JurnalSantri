@@ -1,0 +1,39 @@
+{
+  "name": "Catatan Santri",
+  "short_name": "Jurnal Santri",
+  "scope": "https://www.jurnalsantri.com/",
+  "start_url": "https://www.jurnalsantri.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01579b",
+  "description": "Catatan Santri NU tentang diniyah, fiqh, ibadah, amaliyah dan Ubundiyyah",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s48/Favicon%2BFIX.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s72/Favicon%2BFIX.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s96/Favicon%2BFIX.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s144/Favicon%2BFIX.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s168/Favicon%2BFIX.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s192/Favicon%2BFIX.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-twWMDXrPJLg/YGy8si9cteI/AAAAAAAAGdI/1_jL5T_ZZzsvY5mbzXI5mpG9ACTSqkqhgCLcBGAsYHQ/s512/Favicon%2BFIX.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
